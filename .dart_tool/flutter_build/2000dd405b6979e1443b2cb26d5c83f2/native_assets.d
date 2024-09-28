@@ -1,0 +1,1 @@
+ /Users/nb-dk-0280/Documents/personal/flutter_pixel_game/.dart_tool/flutter_build/2000dd405b6979e1443b2cb26d5c83f2/native_assets.yaml: 

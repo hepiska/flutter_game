@@ -1,0 +1,57 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level_1.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "level_1.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 1.85,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 139.18918918918916,
+                "y": 235.67567567567562
+            }
+        },
+        "level_2.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 1.2739,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 528.6914200486694,
+                "y": 255.9070570688437
+            }
+        },
+        "pixel_game_tile_set.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "/Users/nb-dk-0280/Documents/personal/flutter_pixel_game/assets/images/Terrain",
+    "map.height": 23,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+        "pixel_game_tile_set.tsx",
+        "level_1.tmx"
+    ],
+    "project": "my_pixel_game.tiled-project",
+    "recentFiles": [
+        "pixel_game_tile_set.tsx",
+        "level_1.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
